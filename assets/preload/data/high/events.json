@@ -1,0 +1,82 @@
+{
+	"song": {
+		"speed": 1.8,
+		"stage": null,
+		"player1": "bf-car",
+		"player2": "mom-car",
+		"player3": null,
+		"events": [
+			[
+				3840,
+				[
+					[
+						"Kill Henchmen",
+						"",
+						""
+					]
+				]
+			],
+			[
+				19200,
+				[
+					[
+						"Kill Henchmen",
+						"",
+						""
+					]
+				]
+			],
+			[
+				34560,
+				[
+					[
+						"Kill Henchmen",
+						"",
+						""
+					]
+				]
+			],
+			[
+				65280,
+				[
+					[
+						"Kill Henchmen",
+						"",
+						""
+					]
+				]
+			],
+			[
+				80640,
+				[
+					[
+						"Kill Henchmen",
+						"",
+						""
+					]
+				]
+			],
+			[
+				96000,
+				[
+					[
+						"Kill Henchmen",
+						"",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "noteSplashes",
+		"arrowSkin2": "",
+		"gfVersion": null,
+		"bpm": 125,
+		"splashSkin2": "noteSplashes",
+		"arrowSkin": "",
+		"needsVoices": true,
+		"songID": "high",
+		"songName": "High",
+		"song": "High"
+	}
+}

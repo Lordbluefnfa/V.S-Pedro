@@ -1,0 +1,82 @@
+{
+	"song": {
+		"speed": 1.3,
+		"stage": null,
+		"player1": "bf-christmas",
+		"player2": "monster-christmas",
+		"player3": null,
+		"events": [
+			[
+				21132.0754716981,
+				[
+					[
+						"Set GF Speed",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				45283.0188679245,
+				[
+					[
+						"Set GF Speed",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				57358.4905660377,
+				[
+					[
+						"Set GF Speed",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				81509.4339622642,
+				[
+					[
+						"Set GF Speed",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				105660.377358491,
+				[
+					[
+						"Set GF Speed",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				117735.849056604,
+				[
+					[
+						"Set GF Speed",
+						"1",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "noteSplashes",
+		"arrowSkin2": "",
+		"gfVersion": null,
+		"bpm": 159,
+		"splashSkin2": "noteSplashes",
+		"arrowSkin": "",
+		"needsVoices": true,
+		"songID": "winter-horrorland",
+		"songName": "Winter Horrorland",
+		"song": "Winter Horrorland"
+	}
+}

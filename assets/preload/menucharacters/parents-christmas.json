@@ -1,0 +1,14 @@
+{
+	"confirm_anim": "Parent Christmas Idle Black Lines",
+	"idle_anim": "Parent Christmas Idle Black Lines",
+	"isGF": false,
+	"position": [
+		350,
+		220
+	],
+	"scale": 0.42,
+	"fps": 24,
+	"fpsAlt": 24,
+	"fpsConfirm": 24,
+	"image": "Menu_Parents"
+}

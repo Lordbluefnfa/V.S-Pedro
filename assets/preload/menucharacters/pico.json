@@ -1,0 +1,14 @@
+{
+	"confirm_anim": "Pico Idle Dance",
+	"idle_anim": "Pico Idle Dance",
+	"isGF": false,
+	"position": [
+		110,
+		50
+	],
+	"scale": 0.55,
+	"fps": 24,
+	"fpsAlt": 24,
+	"fpsConfirm": 24,
+	"image": "Menu_Pico"
+}

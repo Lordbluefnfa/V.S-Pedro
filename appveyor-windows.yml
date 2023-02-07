@@ -1,0 +1,21 @@
+version: "{build}"
+
+environment:
+  global:
+    HAXELIB_ROOT: C:\projects\haxelib
+
+install:
+  - haxelib install hmm
+  - haxelib run lime rebuild extension-webm windows
+  - haxelib list
+
+test_script:
+  - haxelib run lime test windows
+
+build_script:
+  - haxelib run lime build windows
+
+artifacts:
+  - path: export/release/windows/bin
+    name: AlsuhEngine-Windows
+    type: zip

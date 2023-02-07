@@ -1,0 +1,14 @@
+{
+	"confirm_anim": "Tankman Idle Dance",
+	"idle_anim": "Tankman Idle Dance",
+	"isGF": false,
+	"position": [
+		100,
+		100
+	],
+	"scale": 0.5,
+	"fps": 24,
+	"fpsAlt": 24,
+	"fpsConfirm": 24,
+	"image": "Menu_Tankman"
+}

@@ -1,0 +1,72 @@
+{
+	"song": {
+		"speed": 1.5,
+		"stage": null,
+		"player1": "bf-christmas",
+		"player2": "parents-christmas",
+		"player3": null,
+		"events": [
+			[
+				9000,
+				[
+					[
+						"Hey!",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				18600,
+				[
+					[
+						"Hey!",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				28200,
+				[
+					[
+						"Hey!",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				37800,
+				[
+					[
+						"Hey!",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				85800,
+				[
+					[
+						"Hey!",
+						"1",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "noteSplashes",
+		"arrowSkin2": "",
+		"gfVersion": null,
+		"bpm": 100,
+		"splashSkin2": "noteSplashes",
+		"arrowSkin": "",
+		"needsVoices": true,
+		"songID": "cocoa",
+		"songName": "Cocoa",
+		"song": "Cocoa"
+	}
+}
